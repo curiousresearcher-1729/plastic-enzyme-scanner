@@ -24,8 +24,8 @@ The primary objective is to move beyond simple sequence matching and use **Hidde
 3.  **HMM Search:** Scoring sequences against a custom PETase profile.
 4.  **Phylogenetic Mapping:** Visualizing where new hits sit on the tree of life.
 
-Phase 1 Complete: Curated high-confidence PETase seed sequences from UniProt.
-Phase 2 in Progress: Implementing Multiple Sequence Alignment (MSA) to identify conserved catalytic residues across diverse species.
+* Phase 1 Complete: Curated high-confidence PETase seed sequences from UniProt.
+* Phase 2 in Progress: Implementing Multiple Sequence Alignment (MSA) to identify conserved catalytic residues across diverse species.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
